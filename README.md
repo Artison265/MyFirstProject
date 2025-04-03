@@ -1,2 +1,2 @@
-# MyFirstProjecj
+# MyFirstProject Repository
 Lab session samples
